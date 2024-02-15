@@ -1,4 +1,9 @@
 # 💫 About Me:
+
+
+<div align="center">
+  <img height="200" src="https://tryhackme-images.s3.amazonaws.com/user-avatars/6224bdff1744a4005d1d730b-1704289718074"  />
+</div>
 🛡️HacktheBox & TryHackMe 🖥️ <br>🕵️‍♂️ Red Team Explorer  🛠️  <br>🔍 Currently diving into eJPT certification 🌐<br>
 
 
