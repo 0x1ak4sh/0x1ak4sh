@@ -71,4 +71,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=0x1ak4sh&icon=8&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://raw.githubusercontent.com/0x1ak4sh/0x1ak4sh/output/snake.svg" alt="Snake animation" />
